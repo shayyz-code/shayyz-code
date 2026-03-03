@@ -1,9 +1,8 @@
-🦀 Yes, I code Blazingly Fast
-
 jellycord · [@yyahx](https://jellycord.com/yyahx)<br>
 discord · @yyahx<br>
 
-On a whim, I make coding tutorials on [Code w/ Shayy](https://codewithshayy.com/).
+On a whim, I make coding tutorials on [Code w/ Shayy](https://codewithshayy.com/).<br>
+And, yes, I code <em>Blazingly Fast</em> 🦀
 
 
 <p align="center">Recently listening to</p>
