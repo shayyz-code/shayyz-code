@@ -1,5 +1,5 @@
 jellycord · [@yyahx](https://jellycord.com/yyahx)<br>
-discord · @yyahx<br>
+discord · [@yyahx](https://discord.com/users/791667210476060672)<br>
 
 On a whim, I make coding tutorials on [Code w/ Shayy](https://codewithshayy.com/).<br>
 And, yes, I code <em>Blazingly Fast</em> 🦀
