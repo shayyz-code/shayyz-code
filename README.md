@@ -1,13 +1,11 @@
-jellycord · [@yyahx](https://jellycord.com/yyahx)<br>
-discord · [@yyahx](https://discord.com/users/791667210476060672)<br>
+[portfolio](https://codewithshayy.com/me) · 
+[jellycord](https://jellycord.com/yyahx) · 
+[discord](https://discord.com/users/791667210476060672) 
 
-On a whim, I make coding tutorials on [Code w/ Shayy](https://codewithshayy.com/).<br>
+သာယာချိုမြိန်ခဲ့သော သန္တာရောင်နှုတ်ခမ်းများ ခါးသက်လေရဲ့...
 
+#### Latest Blog Posts
 
-<p>Recently listening to</p>
-
-<p>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312bwatizbtf5ehu4x3f37gsn7ky&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312bwatizbtf5ehu4x3f37gsn7ky&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
-  </a>
-</p>
+<!-- blog starts -->
+* <a href='https://www.linkedin.com/posts/aung-min-khant-shayy_myanmardevelopers-laravel-golang-share-7459279733508300800-LR9U' target='_blank'>The Industry Stack Shift for Local Web Backend Developers: Laravel ကနေ ရုန်းထွက်သင့်ပြီ</a> - 2026-05-10
+<!-- blog ends -->
