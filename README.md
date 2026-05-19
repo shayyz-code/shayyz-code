@@ -1,6 +1,7 @@
 [portfolio](https://codewithshayy.com/me) · 
 [jellycord](https://jellycord.com/yyahx) · 
-[discord](https://discord.com/users/791667210476060672) 
+[discord](https://discord.com/users/791667210476060672) · 
+[linkedin](https://www.linkedin.com/in/aung-min-khant-shayy/)
 
 သာယာချိုမြိန်ခဲ့သော သန္တာရောင်နှုတ်ခမ်းများ ခါးသက်လေရဲ့...
 
